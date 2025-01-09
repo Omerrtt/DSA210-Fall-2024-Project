@@ -5,7 +5,7 @@
 ## Introduction
 This project investigates the interplay between sleep duration and physical activity levels, measured by daily step counts. Using health data exported from Apple Health, we aim to explore whether there is a significant correlation between these two variables and to derive meaningful insights that can aid in optimizing rest and activity for improved well-being.
 
-The dataset spans the period from [INSERT DATE RANGE], and includes daily total sleep duration (in hours) and daily total step count. The data has been carefully preprocessed to ensure reliability and consistency for analysis. By examining these relationships, we hope to contribute to the broader understanding of how rest and activity impact overall health.
+The dataset spans the period from [26-09-2023, 26-10-2024], and includes daily total sleep duration (in hours) and daily total step count. The data has been carefully preprocessed to ensure reliability and consistency for analysis. By examining these relationships, we hope to contribute to the broader understanding of how rest and activity impact overall health.
 
 ---
 
@@ -24,8 +24,8 @@ The data for this project was extracted from Apple Health, a platform that aggre
 4. **Normalization:** Data was normalized where necessary to allow for better comparisons between variables with differing scales.
 
 ### Dataset Summary
-- **Number of entries:** [INSERT NUMBER]
-- **Time period covered:** [INSERT DATES]
+- **Number of entries:** [349]
+- **Time period covered:** [26-09-2023, 26-10-2024]
 - **Variables included:**
   - Total sleep duration (hours)
   - Total step count
